@@ -27,11 +27,11 @@ font-size: 25px;
 color:yellow;
 }
 
-#div1{background-color: blue;
+#div1{background-color: red;
 }
 
 #div2{
-background-color: green;
+background-color: yellow;
 }
 #div3{background-color: blue;
 }
@@ -45,24 +45,4 @@ background-color: red;
 
 #div1, #div2, #div3, #div4, #div5 {
 border: dashed;
-}
-
-.orange {
-  color:orange;
-
-.center1 {
-  position:relative;
-}
-
-form{
-  padding: 15px;
-  background-color: blue;
-  font-style: italic;
-  border-style: solid;
-  font-weight: 800px;
-}
-input [type=button] {
-  color: black;
-  background-color: red;
-  padding: 5px;
 }
